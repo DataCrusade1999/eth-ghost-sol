@@ -6,7 +6,7 @@
 ![icon](https://github.com/twodude/ghost-relay/blob/master/images/icon.png)
 -->
 
-# GHOST contract
+# [GHOST contract](https://www.cryptocompare.com/coins/guides/what-is-the-ghost-protocol-for-ethereum/)
 
 We use the ```modified inclusive protocol``` in Ethereum for rewards system[[8]](https://github.com/twodude/ghost-relay/blob/master/README.md#references) and the ```longest chain rule``` for a chain-selection system.
 
